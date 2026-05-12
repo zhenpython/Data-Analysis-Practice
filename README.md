@@ -1,8 +1,8 @@
 # Data Analysis Practice Projects
 
-A collection of beginner-friendly data analysis projects created to practice data cleaning, exploration, visualization, and extracting insights using Python.
+## A collection of beginner-friendly data analysis projects created to practice data cleaning, exploration, visualization, and extracting insights using Python.
 
-This repository contains multiple hands-on projects using real-world datasets to improve practical data analysis skills and build a strong portfolio. Some contains projects inspired from: https://roadmap.sh/data-analyst/projects
+## This repository contains multiple hands-on projects using real-world datasets to improve practical data analysis skills and build a strong portfolio. Some contains projects inspired from: https://roadmap.sh/data-analyst/projects
 ---
 
 ## Goals of This Repository
